@@ -39,6 +39,8 @@
 
 | Tool | Free Tier | No CC | Limits | Notes |
 |---|---|---|---|---|
+| **[TeslaWraps](https://teslawraps.design)** | Core edit + PNG free | ✅ | No account | Browser Tesla wrap designer; optional AI credits. |
+| **[PromptImage](https://promptimage.cloud)** | Free signup credits | ✅ | No card | Free AI image & video studio with prompt library. |
 | **[Leonardo.ai](https://leonardo.ai)** | 150 fast tokens/day | ✅ | 150/day, public images | Best quality-to-free ratio. |
 | **[Ideogram](https://ideogram.ai)** | 10 slow credits/week | ✅ | ~40 images/week | Best text rendering in images. |
 | **[Bing Image Creator](https://bing.com/images/create)** | 15 boosts/day (DALL-E 3) | ✅ | 15/day, 1024x1024 | Powered by DALL-E 3. Completely free. |
@@ -59,6 +61,7 @@
 
 | Tool | Free Tier | No CC | Limits | Notes |
 |---|---|---|---|---|
+| **[GrokVideo Studio](https://grokvideogenerator.dev)** | 20 trial credits | ✅ | First login | Independent AI video studio (not official xAI/X). |
 | **[Kling](https://klingai.com)** | 66 daily credits | ✅ | 66/day, 720p | Best physics/motion on free. |
 | **[PixVerse](https://pixverse.ai)** | 60-90 daily credits | ✅ | Watermarked | Fast generation. |
 | **[Pika](https://pika.art)** | 80 monthly credits | ✅ | 480p, watermarked | Fun Pikaffects. |
