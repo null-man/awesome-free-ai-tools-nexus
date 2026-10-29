@@ -62,6 +62,9 @@
 | Tool | Free Tier | No CC | Limits | Notes |
 |---|---|---|---|---|
 | **[GrokVideo Studio](https://grokvideogenerator.dev)** | 20 trial credits | ✅ | First login | Independent AI video studio (not official xAI/X). |
+| **[Alors On Danse Video Maker](https://alorsondansevideo.com)** | 20 trial credits | ✅ | First login | Independent AI video studio (not official xAI/X). |
+| **[Bad Times AI](https://badtimesai.dev)** | 20 trial credits | ✅ | First login | Independent AI video studio (not official xAI/X). |
+| **[I Found You in the Crowd AI](https://ifoundyouinthecrowdai.com)** | 20 trial credits | ✅ | First login | Independent AI video studio (not official xAI/X). |
 | **[Kling](https://klingai.com)** | 66 daily credits | ✅ | 66/day, 720p | Best physics/motion on free. |
 | **[PixVerse](https://pixverse.ai)** | 60-90 daily credits | ✅ | Watermarked | Fast generation. |
 | **[Pika](https://pika.art)** | 80 monthly credits | ✅ | 480p, watermarked | Fun Pikaffects. |
