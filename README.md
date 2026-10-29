@@ -65,6 +65,9 @@
 | **[Alors On Danse Video Maker](https://alorsondansevideo.com)** | 20 trial credits | ✅ | First login | Independent AI video studio (not official xAI/X). |
 | **[Bad Times AI](https://badtimesai.dev)** | 20 trial credits | ✅ | First login | Independent AI video studio (not official xAI/X). |
 | **[I Found You in the Crowd AI](https://ifoundyouinthecrowdai.com)** | 20 trial credits | ✅ | First login | Independent AI video studio (not official xAI/X). |
+| **[KDA Firestarter AI Dance AI Dance Dance](https://kdafirestarterai.dev)** | 20 trial credits | ✅ | First login | Independent AI video studio (not official xAI/X). |
+| **[A2O LITE NEON AI Dance AI Dance](https://a2oliteai.org)** | 20 trial credits | ✅ | First login | Independent AI video studio (not official xAI/X). |
+| **[dime dime baby ai](https://dimedimebabyai.dev)** | 20 trial credits | ✅ | First login | Independent AI video studio (not official xAI/X). |
 | **[Kling](https://klingai.com)** | 66 daily credits | ✅ | 66/day, 720p | Best physics/motion on free. |
 | **[PixVerse](https://pixverse.ai)** | 60-90 daily credits | ✅ | Watermarked | Fast generation. |
 | **[Pika](https://pika.art)** | 80 monthly credits | ✅ | 480p, watermarked | Fun Pikaffects. |
